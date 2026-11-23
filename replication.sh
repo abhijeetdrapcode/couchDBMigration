@@ -6,7 +6,6 @@ LOCAL_HOST="127.0.0.1:5984"
 
 REMOTE_AUTH="admin:1234"
 # REMOTE_HOST="couchdb.abhijeetrana.com"
-REMOTE_HOST="docker.drapcode.us"
 REMOTE_PROTOCOL="https" # use 'http' or 'https'
 
 echo "Fetching all databases from remote CouchDB..."
